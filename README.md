@@ -2,6 +2,7 @@
 ## APIs and libraries used
 **opendatasoft:** To get the coordinates of the city by name and country code.
 [Documentation](https://public.opendatasoft.com/explore/)
+
 **open-meteo:** For weather data.
 [Documentation](https://open-meteo.com/en/docs)
 
